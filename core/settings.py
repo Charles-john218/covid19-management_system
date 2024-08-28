@@ -85,11 +85,10 @@ DATABASES = {
         'NAME': 'covid19',
         'USER': 'covid_system',
         'PASSWORD': 'charles',
-        'HOST': 'mysql-135c2af1-charlescleo212-c5e9.c.aivencloud.com',
-        'PORT': '26687',
+        'HOST': 'localhost',
+        'PORT': '3306',
     }
 }
-
 
 
 
