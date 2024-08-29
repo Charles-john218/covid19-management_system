@@ -82,10 +82,10 @@ WSGI_APPLICATION = 'core.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'covid19',
-        'USER': 'covid_system',
-        'PASSWORD': 'charles',
-        'HOST': 'localhost',
+        'NAME': 'Charles043$covid19',
+        'USER': 'Charles043',
+        'PASSWORD': 'Reddington1',
+        'HOST': 'Charles043.mysql.pythonanywhere-services.com',
         'PORT': '3306',
     }
 }
